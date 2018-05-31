@@ -22,7 +22,7 @@ Professionally, I have:
 
 I am a lifelong autodidactic craftsperson. I find joy in creativity and craft (I consider software a craft). Other than dabbling in new languages or frameworks, you might also find me woodworking, renovating, gardening, bicycle tuning, beading, macraméing, knitting, script writing or acting.
 
-I have an incredibly nostalgic soft spot for 1990s video games; this is particularly true for 16-bit graphics and soundtracks (Chrono Trigger :heart_eyes:), but also 90s PC and Mac titles.
+I have a nostalgic soft spot for 1990s video games; this is particularly true for 16-bit graphics and soundtracks (_Chrono Trigger_ :heart_eyes:), but also 90s PC and Mac titles (_Willy Beamish_, _The Incredible Machine_, _Sim City 2000_ :heart_eyes::heart_eyes::heart_eyes:).
 
 I fell in love with cycling after living in Copenhagen for six months. I'm a huge advocate of cycling infrastructure in New York City. Cycling as a mode of transit the city is already awesome, but it could be even safer and more efficient.
 
