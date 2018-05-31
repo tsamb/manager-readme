@@ -38,7 +38,11 @@ I believe that focusing on **people** and helping them find **meaning** and **fu
 
 ### Empathy between engineers and product
 
+## Things I haven't worked out yet
 
+### How to balance software implementation with other work
+
+### How to pay down conceptual, technical and product debt
 
 Personal Principles / Values — What are your default assumptions about people and their intentions? What mindsets do you have and which do you hope other people adopt when working together on the team? What things trigger you?
 One-on-Ones — What style of 1:1s do you want out of your team? Most above follow the weekly/bi-weekly, 30 min cadence, and the employee controls the agenda.
