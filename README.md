@@ -38,6 +38,23 @@ I believe that focusing on **people** and helping them find **meaning** and **fu
 
 ### Empathy between engineers and product
 
+## On feedback
+
+[Several](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g2703004c10_0_232) of [these](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.g2cf5bbf228_0_280) READMEs mention safety, effort and benefit as pillars of good feedback ([Matt Newkirk](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/), in particular, says "neither you nor I should feel defensive about the feedback"). I absolutely agree that feedback should always be delivered within a safe space and I agree feedback should always be for the benefit and growth of the other person. However, I don't agree that feedback needs to be "low effort". **Feedback can be hard to give and receive.** But it is well worth the effort. I think it is perfectly natural for a receiver of feedback to feel defensive (particularly initially) in some cases.
+
+My framework for feedback is as follows:
+1. Build inter-team and inter-personal **trust** alongside a culture of feedback.
+1. Train people to **ask for feedback** and be open and vulnerable to that feedback for their own benefit and growth.
+1. Only ever give feedback for the genuine benefit and growth of the recipient (**kindness**).
+1. Give feedback that the recipient can act on (**specific** and **actionable**).
+1. Recommend that people take time and space to digest and **reflect** on feedback. Reflect seriously, honestly and vulnerably on feedback, with a **growth mindset**.
+1. Given genuine reflection, **self-parse the useful feedback** from the rest. Be slow to dismiss feedback about which you feel defensive. This often provides the biggest avenue for growth.
+1. Work actively to **integrate the useful feedback** into your daily life and habits. (That is, grow!)
+
+I think that my feedback philosophies go hand in hand with my views on the importance of intellectual curiosity, growth mindset and clear communication of goals. Feedback also dovetails with my philosophy that a large part of my job as manager is to help the people I am managing reach self-actualization.
+
+I credit the honing of my feedback philosophies to my time working and teaching at Dev Bootcamp. In a recent conversation with [Jon Stowe](https://www.linkedin.com/in/jonstowe/), we both agreed that "actionable, specific and kind feedback" was a takeaway from DBC that we continue to apply in work and life.
+
 ## Things I haven't worked out yet
 
 ### How to balance software implementation with other work
