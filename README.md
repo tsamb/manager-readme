@@ -2,7 +2,7 @@
 A readme on my management philosophies
 
 ## What is this?
-This document is an overview of my philosophies on managing people. This document, like my philosophies and practices are subject to change and _growth_. In fact, I would be disappointed in myself if my views did not change and grow as I receive feedback, recognize patterns and try new things.
+This document is an introduction to me and an overview of my philosophies on managing people. This document, like my philosophies and practices are subject to change and _growth_. In fact, I would be disappointed in myself if my views did not change and grow as I receive feedback, recognize patterns and try new things.
 
 ## About Me
 I have been coding in some form or another for 20+ years (insert throwbacks here to 90s JavaScript, ActionScript and HyperTalk; here's also the appropriate place for a shout out to Gopher servers and GeoCities websites). I have been working with software engineers — pairing, thought-partnering, managing — in some capacity or another since 2008.
