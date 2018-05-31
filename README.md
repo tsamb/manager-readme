@@ -18,7 +18,7 @@ Professionally, I have:
 * taught full stack web development at a coding bootcamp;
 * led software teams at a real estate startup.
 
-## Other personal interests
+### Other personal interests
 
 I am a lifelong autodidactic craftsperson. I find joy in creativity and craft (I consider software a craft). Other than dabbling in new languages or frameworks, you might also find me woodworking, renovating, gardening, bicycle tuning, beading, macraméing, knitting, script writing or acting.
 
