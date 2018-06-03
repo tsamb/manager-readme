@@ -32,11 +32,21 @@ I believe that users matter. I believe that bottom lines matter, be those bottom
 
 I believe that focusing on **people** and helping them find **meaning** and **fulfillment** in their work promotes business success. That is, happy and fulfilled workers performing meaningful work play an incredibly large part in happy users and healthy bottom lines.
 
-### Fulfillment and self-actualization
+My job as your manager is to help you define success and then actualize it.
 
 ### Ownership and autonomy
 
-### Empathy between engineers and product
+I value you having ownership of and autonomy over your work. It's my job to thought partner with you and provide you with feedback. It's your job to do your job (and not have me _telling_ you how to do your job).
+
+### Fulfillment and self-actualization
+
+I believe that employees' personal fulfillment and self actualization leads to business success. Learning, growth and feedback is a key part of this. This is one of the reasons why I value intellectual curiosity is an important trait. Intellectual curiosity intrinsically motivates people to learn, grow and realize their potential.
+
+### Empathy between engineers, product and business stakeholders
+
+It's easy for software engineers to get frustrated with pressure coming from product managers and business stakeholders ("this features needs to be delivered **_yesterday_!**"). It's easy for product managers and business stakeholders to get frustrated by pushback from software engineers ("it's not as easy as '_just putting a new button there_'...").
+
+Building empathy between these stakeholders helps them understand each other's roles, pressures, frustrations and constraints.
 
 ## On feedback
 
