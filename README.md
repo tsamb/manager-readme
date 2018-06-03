@@ -65,6 +65,15 @@ I think that my feedback philosophies go hand in hand with my views on the impor
 
 I credit the honing of my feedback philosophies to my time working and teaching at Dev Bootcamp. In a recent conversation with [Jon Stowe](https://www.linkedin.com/in/jonstowe/), we both agreed that "actionable, specific and kind feedback" was a takeaway from DBC that we continue to apply in work and life.
 
+## On learning and growth
+
+Importance. Maslow's hierarchy. Bloom's taxonomy. Journey towards self-actualization.
+
+### Experiential learning
+
+### Growth mindset
+
+
 ## Things I haven't worked out yet
 
 ### How to balance software implementation with other work
