@@ -81,7 +81,9 @@ I credit the honing of my feedback philosophies to my time working and teaching 
 
 ## On learning and growth
 
-Importance. Maslow's hierarchy. Bloom's taxonomy. Journey towards self-actualization.
+Helping catalyze your intellectual curiosity is an important part of my job, for the reasons above regarding fulfillment and self-actualization. Think of me as your champion towards self-actualization. When it comes to learning and growth, I am a big fan of [Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy).
+
+When I check in with you about your progress towards your learning and growth goals, I will often refer to the [Bloom categories](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/). As an example, as one of the junior developers I managed was learning React, we set goals around _analysis_ of current opinions of React best practices. The broader objective was get to a point where the developer could _evaluate_ the existing diverse opinions and contribute to the dialog by _creating_ his own opinion on React best practices.
 
 ### Experiential learning
 
