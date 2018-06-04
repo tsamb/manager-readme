@@ -95,6 +95,9 @@ I encourage everyone to approach their goals and growth with a [growth mindset](
 
 ### Reflection
 
+Personal growth can be imperceptible since it is generally continuous rather than discrete (as contrasted with fulfillment through accomplishment). For this reason, it's important to regularly reflect on the differential in your growth over time. This also allows you to adjust your patterns and habits based on your progress. Particularly in our one-on-ones I will encourage you to reflect on your growth and your week with a lens to your weekly, monthly and quarterly diffs.
+
+Team-wide and process-based reflection (for example, agile retrospectives) are also incredibly important to the success of the individual, the team and the organization. With regard to reflection, feedback and iteration on process, I like to take an agile approach to Agile. That is, reflect and iterate on the process framework itself, not simply discrete processes within the framework. While it isn't effective or scientific to modify fundamental aspects of how you practice Agile after every sprint, a quarterly retrospective on Agile practices themselves is healthy and refreshing.
 
 ## Things I haven't worked out yet
 
