@@ -40,7 +40,7 @@ I value you having ownership of and autonomy over your work. It's my job to thou
 
 ### Fulfillment and self-actualization
 
-I believe that employees' personal fulfillment and self actualization leads to business success. Learning, growth and feedback are key parts of this. This is one of the reasons why I value intellectual curiosity is a trait. Intellectual curiosity intrinsically motivates people to learn, grow and realize their potential. People also perform better when they are intrinsically motivated by their work.
+I believe that employees' personal fulfillment and self actualization leads to business success. Learning, growth and feedback are key parts of this. This is one of the reasons why I value intellectual curiosity as a trait. Intellectual curiosity intrinsically motivates people to learn, grow and realize their potential. People also perform better when they are intrinsically motivated by their work.
 
 ##### Maslow's hierarchy of needs
 
