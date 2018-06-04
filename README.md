@@ -73,6 +73,8 @@ Importance. Maslow's hierarchy. Bloom's taxonomy. Journey towards self-actualiza
 
 ### Growth mindset
 
+### Reflection
+
 
 ## Things I haven't worked out yet
 
