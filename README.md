@@ -40,7 +40,9 @@ I value you having ownership of and autonomy over your work. It's my job to thou
 
 ### Fulfillment and self-actualization
 
-I believe that employees' personal fulfillment and self actualization leads to business success. Learning, growth and feedback is a key part of this. This is one of the reasons why I value intellectual curiosity is an important trait. Intellectual curiosity intrinsically motivates people to learn, grow and realize their potential.
+People perform better when they are intrinsically motivated by their work. Intrinsic motivation comes from people finding meaning in their work. People find joy, meaning and fulfillment from the act of "completion of work". This could mean shipping a product, releasing a feature, or even getting a test to pass. Buying-in to and beliving in the product ("this is going to make the world a better place" or "this is going to surprise and delgiht our users") or end goal ("this is going to make me a better developer" or "this is going to leave our codebase in a better state than when I started") amplifies the effect. People also find joy, meaning and fulfillment from personal growth. This growth can be as small as learning a new, more efficient keyboard shortcut or keybinding, or as large as evolving your approach to system design.
+
+I believe that employees' personal fulfillment and self actualization leads to business success. Learning, growth and feedback is a key part of this. This is one of the reasons why I value intellectual curiosity is a trait. Intellectual curiosity intrinsically motivates people to learn, grow and realize their potential.
 
 ### Empathy between engineers, product and business stakeholders
 
