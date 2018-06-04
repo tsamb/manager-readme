@@ -87,6 +87,8 @@ When I check in with you about your progress towards your learning and growth go
 
 ### Experiential learning
 
+I think people learn most effectively by doing and teaching. I will encourage you to integrate your learning and growth goals into the hands-on work you do day to day. I will also encourage you to share your knowledge with your peers and colleagues junior to you. This could be through pair programming, whiteboarding or a presentation.
+
 ### Growth mindset
 
 ### Reflection
