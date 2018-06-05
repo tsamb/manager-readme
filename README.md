@@ -24,7 +24,7 @@ I am a lifelong autodidactic craftsperson. I find joy in creativity and craft (I
 
 I have a nostalgic soft spot for 1990s video games; this is particularly true for 16-bit graphics and soundtracks (_Chrono Trigger_ :heart_eyes:), but also 90s PC and Mac titles (_Willy Beamish_, _The Incredible Machine_, _Sim City 2000_ :heart_eyes::heart_eyes::heart_eyes:).
 
-I fell in love with cycling after living in Copenhagen for six months. I'm a huge advocate for improving cycling infrastructure in New York City (in fact, in any urban area). Cycling as a mode of transit the city is already awesome, but it could be even safer and more efficient.
+I fell in love with cycling after living in Copenhagen for six months. I'm a huge advocate for improving cycling infrastructure in New York City (in fact, in any urban area). Cycling as a mode of transit around the city is already awesome, but it could be even safer and more efficient.
 
 ## On engineering management
 
