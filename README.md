@@ -137,7 +137,7 @@ I think people learn most effectively by doing and teaching. I will encourage yo
 
 ### Growth mindset
 
-I encourage everyone to approach their goals and growth with a [growth mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth). Given a growth mindset, failure is productive. I acknowledge that many forms of failure can be a hit to your ego (see the section on Maslow's hierarchy and esteem above). However, I think it is crucially important to reframe failure as an opportunity for reflection and growth.
+I encourage everyone to approach their goals and growth with a [growth mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth). Given a growth mindset, failure is productive and critical feedback is a gift. I acknowledge that many forms of failure can be a hit to your ego (see the section on Maslow's hierarchy and esteem above). However, I think it is crucially important to reframe failure as an opportunity for reflection and growth.
 
 ### Reflection
 
