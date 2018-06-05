@@ -147,11 +147,19 @@ Team-wide and process-based reflection (for example, agile retrospectives) are a
 
 ## Things I haven't worked out yet
 
-### How to balance software implementation with other work
+There are many issues within software engineering upon which I am interested in iterating.
 
-### How to pay down conceptual, technical and product debt
+### How to best balance software implementation with other work
 
-Personal Principles / Values — What are your default assumptions about people and their intentions? What mindsets do you have and which do you hope other people adopt when working together on the team? What things trigger you?
-One-on-Ones — What style of 1:1s do you want out of your team? Most above follow the weekly/bi-weekly, 30 min cadence, and the employee controls the agenda.
-Feedback (how to give & how you give) — What type of feedback do you want? Are you comfortable with people being blunt with you? How do you prefer to give feedback? How do you expect your team to react to feedback?
-How to interpret my calendar — Sometimes a manager’s calendar can be packed. Almost every manager above wants their team to know that they are the most important part of their job, so they’re explicit in saying so. Message them on slack if you need to talk. They’ll make time.
+Software engineers love releasing features. (Product people and business people love feature releases, too!) I'm a big advocate of optimizing for [makers' schedules](http://www.paulgraham.com/makersschedule.html) for software engineers. That can involve shielding engineers against other stakeholders or staunchly defending process. While it would be nice for every chunk of the working day to allow for engineers to get into the flow on feature implementation, there is often work unrelated to implementation.
+
+As an example, if engineering team members present technical presentations to each other (or others in the organization) on a recurring basis, how do you balance preparation for the presentation against implementation goals in the current sprint or work cycle?
+
+### How to best pay down conceptual, technical and product debt
+
+Various types of debt can be the bane of a developer's existence — it can grind development velocity to a trudge and decrease morale. There are various approaches to paying down debt, from greenfield rewrites to slow-and-steady pay downs.
+
+After watching [Sarah Mei's keynote at RailsConf 2018](https://www.youtube.com/watch?v=lI77oMKr5EY), I've grown fond the analogy of software development being like furnishing and maintaining a home. In that vein, I like the idea of taking a very messy home and creating plans, rules and [habits](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) to be tidy rather than [dramatically decluttering](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308). (Replace "home" with "codebase" or "product feature set" or "domain model".)
+
+I haven't come across a silver bullet for debt (there likely isn't one). I am interested in iterating on creative ways to manage and pay down debt.
+
