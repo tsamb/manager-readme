@@ -62,6 +62,52 @@ It's easy for software engineers to get frustrated with pressure coming from pro
 
 Building empathy between these stakeholders helps them understand each other's roles, pressures, frustrations and constraints.
 
+### Home is for home life
+
+I am an avid protector of your personal time. I expect you to work the hours you have specifically designated for work. I explicitly expect you _not to work_ on work-related tasks outside of those hours.
+
+Having time and space to "turn off" work pressures is really important to your personal wellbeing and your productivity when you _are_ working.
+
+##### Family and health
+
+I always expect you to prioritize your family and your health (mental and physical) above your work.
+
+### One-on-ones
+
+I want to spend one-on-one time with you at least once a fortnight. I'm totally happy with a weekly cadence if you prefer it.
+
+Our one-on-one sessions are a great time for you to:
+
+* ask questions
+* give me feedback
+* brainstorm your personal goals with me
+* report progress towards your goals
+* communicate any frustrations you have
+* ask me for things/actions that will make you happier and more fulfilled
+
+...and for me to:
+
+* listen
+* give you answers
+* ask you questions
+* give you feedback
+* brainstorm your personal goals with you
+* help you unpack your frustrations and strategize on how to solve them
+* write a list of takeaway tasks for me to do
+* challenge you to grow
+
+### Communication
+
+First and foremost, if you are on a [maker's schedule](http://www.paulgraham.com/makersschedule.html) then I will do everything I can to respect it. I encourage you to turn off Slack (or alternative work chat app) notifications when you are planning on getting into flow state.
+
+I really like face-to-face communication (whether in person or over video chat), however, asynchronous comms can be more efficient and less disruptive. For collaborative technical tasks, whether it's domain modeling or pair programming, I much prefer to be in the same physical space as my colleagues.
+
+If a question or discussion merits a short response or a brief dialog between several people on different schedules, I prefer a medium like Slack (DM or group DM). In this medium, for folks on a maker's schedule, I expect a ~4 hour response time. For folks on a manager's schedule, I expect a <1 hour response time.
+
+For questions, discussions or announcements that are a) more important or b) require more thought and a more thorough response, I prefer email. Depending on the email, I generally expect a response time of between 12-36 hours. However, I find it's a good practice to clearly set out the expectation of whether and when to expect a response.
+
+Particularly for longer forms of written communication, I aspire to write in [plain language](https://en.wikipedia.org/wiki/Plain_language), with sections clearly labeled and the most important topics at the top.
+
 ## On feedback
 
 [Several](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g2703004c10_0_232) of [these](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.g2cf5bbf228_0_280) other [manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) mention safety, effort and benefit as pillars of good feedback ([Matt Newkirk](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/), in particular, says "neither you nor I should feel defensive about the feedback"). I absolutely agree that feedback should always be delivered within a safe space and I agree feedback should always be for the benefit and growth of the other person. However, I don't agree that feedback needs to be "low effort". **Feedback can be hard to give and receive.** But it is well worth the effort. I think it is perfectly natural for a receiver of feedback to feel defensive (particularly initially) in some cases.
