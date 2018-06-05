@@ -20,7 +20,7 @@ Professionally, I have:
 
 ### Other personal interests
 
-I am a lifelong autodidactic craftsperson. I find joy in creativity and craft (I consider software a craft). Other than dabbling in new languages or frameworks, you might also find me woodworking, renovating, gardening, bicycle tuning, beading, macraméing, knitting, script writing or acting.
+I am a lifelong autodidactic craftsperson. I find joy in creativity and craft (I consider software a craft). Other than dabbling in [new languages](https://github.com/tsamb/haskell-game-of-life) or frameworks, you might also find me woodworking, renovating, gardening, bicycle tuning, beading, macraméing, knitting, script writing or acting.
 
 I have a nostalgic soft spot for 1990s video games; this is particularly true for 16-bit graphics and soundtracks (_Chrono Trigger_ :heart_eyes:), but also 90s PC and Mac titles (_Willy Beamish_, _The Incredible Machine_, _Sim City 2000_ :heart_eyes::heart_eyes::heart_eyes:).
 
