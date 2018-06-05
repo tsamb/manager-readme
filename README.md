@@ -157,7 +157,7 @@ As an example, if engineering team members present technical presentations to ea
 
 ### How to best pay down conceptual, technical and product debt
 
-Various types of debt can be the bane of a developer's existence — it can grind development velocity to a trudge and decrease morale. There are various approaches to paying down debt, from greenfield rewrites to slow-and-steady pay downs.
+Various types of debt can be the bane of a developer's existence — it can grind development velocity to a trudge and decrease morale. There are various approaches to paying down debt, from greenfield rewrites to [feature freezes](https://blog.codinghorror.com/paying-down-your-technical-debt/) to slow-and-steady pay downs.
 
 After watching [Sarah Mei's keynote at RailsConf 2018](https://www.youtube.com/watch?v=lI77oMKr5EY), I've grown fond the analogy of software development being like furnishing and maintaining a home. In that vein, I like the idea of taking a very messy home and creating plans, rules and [habits](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) to be tidy rather than [dramatically decluttering](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308). (Replace "home" with "codebase" or "product feature set" or "domain model".)
 
