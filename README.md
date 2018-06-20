@@ -108,6 +108,12 @@ For questions, discussions or announcements that are a) more important or b) req
 
 Particularly for longer forms of written communication, I aspire to write in [plain language](https://en.wikipedia.org/wiki/Plain_language), with sections clearly labeled and the most important topics at the top.
 
+### Integrity
+
+Integrity is one of those values that I hope goes without saying. Performing your duties morally, sincerely, and transparently is foundational to our relationship. A relationship of trust between us is incredibly important for us to work together well. Acting with integrity is a great way to build that trust; acting out of integrity is a quick way to break down the trust.
+
+I will always be transparent with you when I can. If there are things I cannot share, I will tell you why. If you ever feel that I am acting out of integrity, I want you to call me out on it.
+
 ## On feedback
 
 [Several](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g2703004c10_0_232) of [these](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.g2cf5bbf228_0_280) other [manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) mention safety, effort and benefit as pillars of good feedback ([Matt Newkirk](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/), in particular, says "neither you nor I should feel defensive about the feedback"). I absolutely agree that feedback should always be delivered within a safe space and I agree feedback should always be for the benefit and growth of the other person. However, I don't agree that feedback needs to be "low effort". **Feedback can be hard to give and receive.** But it is well worth the effort. I think it is perfectly natural for a receiver of feedback to feel defensive (particularly initially) in some cases.
