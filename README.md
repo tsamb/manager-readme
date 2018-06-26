@@ -4,7 +4,27 @@ A readme on my management philosophies
 ## What is this?
 This document is an introduction to me and an overview of my philosophies on managing software engineers. This document, like my philosophies and practices are subject to change and _growth_. In fact, I would be disappointed in myself if my views did not change and grow as I receive feedback, recognize patterns and try new things.
 
-## About Me
+* [What is this?](#what-is-this)
+* [About me](#about-me)
+  * [Background](#background)
+  * [Personal interests](#personal-interests)
+* [On engineering management](#on-engineering-management)
+  * [Ownership and autonomy](#ownership-and-autonomy)
+  * [Fulfillment and self-actualization](#fulfillment-and-self-actualization)
+  * [Learning and growth](#learning-and-growth)
+  * [Integrity](#integrity)
+  * [Home is for home life](#home-is-for-home-life)
+  * [One-on-ones](#one-on-ones)
+  * [Empathy between engineers and business stakeholders](#empathy-between-engineers-and-business-stakeholders)
+  * [Communication](#communication)
+    * [Slack](#slack)
+    * [Email](#email)
+* [On feedback](#on-feedback)
+* [Things I haven't worked out yet](#Things-I-havent-worked-out-yet)
+  * [How to best balance software implementation with other work](#how-to-best-balance-software-implementation-with-other-work)
+  * [How to best pay down conceptual, technical and product debt](#how-to-best-pay-down-conceptual-technical-and-product-debt)
+
+## About me
 
 ### Background
 
@@ -80,6 +100,12 @@ Our one-on-one sessions are a great time for you to:
 * write a list of takeaway tasks for me to do
 * challenge you to grow
 
+### Empathy between engineers and business stakeholders
+
+It's easy for software engineers to get frustrated with pressure coming from product managers and business stakeholders ("this features needs to be delivered **_yesterday_!**"). It's easy for product managers and business stakeholders to get frustrated by pushback from software engineers ("it's not as easy as '_just putting a new button there_'...").
+
+Building empathy between these stakeholders helps them understand each other's roles, pressures, frustrations and constraints.
+
 ### Communication
 
 First and foremost, if you are on a [maker's schedule](http://www.paulgraham.com/makersschedule.html), I will do everything I can to respect it. I encourage you to turn off Slack notifications when you are planning on getting into flow state.
@@ -95,12 +121,6 @@ If a question or discussion merits a short response or a brief dialog between se
 For questions, discussions or announcements that are a) more important or b) require more thought and a more thorough response, I prefer email. Depending on the email, I generally expect a response time of between 12-36 hours. However, I find it's a good practice to clearly set out the expectation of whether and when to expect a response.
 
 Particularly for longer forms of written communication, I aspire to write in [plain language](https://en.wikipedia.org/wiki/Plain_language), with sections clearly labeled and the most important topics at the top.
-
-### Empathy between engineers, product people and business stakeholders
-
-It's easy for software engineers to get frustrated with pressure coming from product managers and business stakeholders ("this features needs to be delivered **_yesterday_!**"). It's easy for product managers and business stakeholders to get frustrated by pushback from software engineers ("it's not as easy as '_just putting a new button there_'...").
-
-Building empathy between these stakeholders helps them understand each other's roles, pressures, frustrations and constraints.
 
 ## On feedback
 
