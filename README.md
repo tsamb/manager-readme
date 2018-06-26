@@ -2,33 +2,23 @@
 A readme on my management philosophies
 
 ## What is this?
-This document is an introduction to me and an overview of my philosophies on managing people. This document, like my philosophies and practices are subject to change and _growth_. In fact, I would be disappointed in myself if my views did not change and grow as I receive feedback, recognize patterns and try new things.
+This document is an introduction to me and an overview of my philosophies on managing software engineers. This document, like my philosophies and practices are subject to change and _growth_. In fact, I would be disappointed in myself if my views did not change and grow as I receive feedback, recognize patterns and try new things.
 
 ## About Me
 
 ### Background
-I have been coding in some form or another for 20+ years (insert throwbacks here to 90s JavaScript, ActionScript and HyperTalk; here's also the appropriate place for a shout out to Gopher servers and GeoCities websites). I have been working with software engineers — pairing, thought-partnering, managing — in some capacity or another since 2008.
 
-Academically, I majored in [logic and computation](http://www.science.auckland.ac.nz/en/about/subjects-and-specialisations/ug-majors/logic-and-computation-ug.html) (and philosophy) in undergrad. I later completed a law degree in which I wrote my [dissertation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2286403) on international digital copyright infringement. I also have [speech and drama](https://www.speechnz.co.nz/) teaching credentials.
+I have been coding in some form or another for 20+ years. I have been working with software engineers — pairing, thought-partnering, managing — in some capacity or another since 2008.
 
-Professionally, I have:
-* started two failed software startups;
-* taught logic and critical thinking at the University of Auckland;
-* worked as a lawyer at a large commercial firm;
-* taught full stack web development at a coding bootcamp;
-* led software teams at a real estate startup.
+### Personal interests
 
-### Other personal interests
+I love self-teaching and improving my skill in crafts, including: software, woodworking, home renovation, gardening, cooking, bicycle tuning, beading, macraméing, knitting, script writing and acting.
 
-I am a lifelong autodidactic craftsperson. I find joy in creativity and craft (I consider software a craft). Other than dabbling in [new languages](https://github.com/tsamb/haskell-game-of-life) or frameworks, you might also find me woodworking, renovating, gardening, bicycle tuning, beading, macraméing, knitting, script writing or acting.
-
-I have a nostalgic soft spot for 1990s video games; this is particularly true for 16-bit graphics and soundtracks (_Chrono Trigger_ :heart_eyes:), but also 90s PC and Mac titles (_Willy Beamish_, _The Incredible Machine_, _Sim City 2000_ :heart_eyes::heart_eyes::heart_eyes:).
-
-I fell in love with cycling after living in Copenhagen for six months. I'm a huge advocate for improving cycling infrastructure in New York City (in fact, in any urban area). Cycling as a mode of transit around the city is already awesome, but it could be even safer and more efficient.
+I get major nostalgia for 1990s video games. I love commuter-cycling and I think every major metropolitan city should focus on better cycling infrastructure. More about me and my interests [here](./background.md).
 
 ## On engineering management
 
-I believe that users matter. I believe that bottom lines matter, be those bottoms lines net income or some [non-conventional measure](https://en.wikipedia.org/wiki/Triple_bottom_line). However, _**I believe that the people and teams building the product matter most.**_
+I believe that users matter. I believe that bottom lines matter, be they net income or some [non-conventional measure](https://en.wikipedia.org/wiki/Triple_bottom_line). However, _**I believe that the people and teams building the product matter most.**_
 
 I believe that focusing on **people** and helping them find **meaning** and **fulfillment** in their work promotes business success. That is, happy and fulfilled workers performing meaningful work play an incredibly large part in happy users and healthy bottom lines.
 
@@ -42,33 +32,27 @@ I value you having ownership of and autonomy over your work. It's my job to thou
 
 I believe that employees' personal fulfillment and self actualization leads to business success. Learning, growth and feedback are key parts of this. This is one of the reasons why I value intellectual curiosity as a trait. Intellectual curiosity intrinsically motivates people to learn, grow and realize their potential. People also perform better when they are intrinsically motivated by their work.
 
-##### Maslow's hierarchy of needs
+More [here](./fulfillment.md) on fulfillment and Maslow's hierarchy of needs.
 
-I like [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) as a model to apply in the workplace. As an absolute baseline, the workplace must provide physiological and safety needs. If not, these are the top order of priority. It is also important that leaders and members within an organization set the culture such that everyone feels a sense of social belonging.
+### Learning and growth
 
-Given the foundation of physiological, safety and belonging needs, I see a big part of my job as your manager as helping you fulfill your esteem and self-actualization needs: both self-esteem and respect from your peers, and you realizing your goals and potential.
+Helping catalyze your intellectual curiosity is an important part of my job. Think of me as your champion towards self-actualization. I will encourage you to approach your goals and challenges with a [growth mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth).
 
-##### Fulfillment through accomplishment
+When I check in with you about your progress towards your learning and growth goals, I will often refer to the [categories](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) from [Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy). As an example, as one of the junior developers I managed was learning React, we set goals around _analysis_ of current opinions of React best practices. The broader objective was get to a point where the developer could _evaluate_ the existing diverse opinions and contribute to the dialog by _creating_ his own opinion on React best practices.
 
-Intrinsic motivation comes from people finding meaning in their work. People find joy, meaning and fulfillment from the act of accomplishment. This could mean shipping a product, releasing a feature, or even getting a test to pass. Buying-in to and believing in the product ("this is going to make the world a better place" or "this is going to surprise and delight our users") or end goal ("this is going to make me a better developer" or "this is going to leave our codebase in a better state than when I started") amplifies the effect. 
+More on experiential learning, growth mindset and reflection [here](./growth.md).
 
-##### Fulfillment through growth
+### Integrity
 
-People also find joy, meaning and fulfillment from personal growth. Growth can be as small as learning a new, more efficient keyboard shortcut or keybinding, or as large as evolving your approach to system design.
+Integrity is a value that I hope goes without saying. Performing your duties morally, sincerely, and transparently is foundational to our relationship. A relationship of trust between us is incredibly important for us to work together well. Acting with integrity is a great way to build that trust; acting out of integrity is a quick way to break down the trust.
 
-### Empathy between engineers, product and business stakeholders
-
-It's easy for software engineers to get frustrated with pressure coming from product managers and business stakeholders ("this features needs to be delivered **_yesterday_!**"). It's easy for product managers and business stakeholders to get frustrated by pushback from software engineers ("it's not as easy as '_just putting a new button there_'...").
-
-Building empathy between these stakeholders helps them understand each other's roles, pressures, frustrations and constraints.
+I will always be transparent with you when I can. If there are things I cannot share, I will tell you why. If you ever feel that I am acting out of integrity, I want you to call me out on it.
 
 ### Home is for home life
 
 I am an avid protector of your personal time. I expect you to work the hours you have specifically designated for work. I explicitly expect you _not to work_ on work-related tasks outside of those hours.
 
-Having time and space to "turn off" work pressures is really important to your personal wellbeing and your productivity when you _are_ working.
-
-##### Family and health
+Having time and space to "turn off" work pressures is important to your personal wellbeing and your productivity when you _are_ working.
 
 I always expect you to prioritize your family and your health (mental and physical) above your work.
 
@@ -98,25 +82,29 @@ Our one-on-one sessions are a great time for you to:
 
 ### Communication
 
-First and foremost, if you are on a [maker's schedule](http://www.paulgraham.com/makersschedule.html) then I will do everything I can to respect it. I encourage you to turn off Slack (or alternative work chat app) notifications when you are planning on getting into flow state.
+First and foremost, if you are on a [maker's schedule](http://www.paulgraham.com/makersschedule.html), I will do everything I can to respect it. I encourage you to turn off Slack notifications when you are planning on getting into flow state.
 
-I really like face-to-face communication (whether in person or over video chat), however, asynchronous comms can be more efficient and less disruptive. For collaborative technical tasks, whether it's domain modeling or pair programming, I much prefer to be in the same physical space as my colleagues.
+I prefer face-to-face communication, whether in person or over video chat. However, asynchronous comms can be more efficient and less disruptive. For collaborative technical tasks, whether it's domain modeling or pair programming, I much prefer to be in the same physical space as my colleagues.
+
+#### Slack
 
 If a question or discussion merits a short response or a brief dialog between several people on different schedules, I prefer a medium like Slack (DM or group DM). In this medium, for folks on a maker's schedule, I expect a ~4 hour response time. For folks on a manager's schedule, I expect a <1 hour response time.
+
+#### Email
 
 For questions, discussions or announcements that are a) more important or b) require more thought and a more thorough response, I prefer email. Depending on the email, I generally expect a response time of between 12-36 hours. However, I find it's a good practice to clearly set out the expectation of whether and when to expect a response.
 
 Particularly for longer forms of written communication, I aspire to write in [plain language](https://en.wikipedia.org/wiki/Plain_language), with sections clearly labeled and the most important topics at the top.
 
-### Integrity
+### Empathy between engineers, product people and business stakeholders
 
-Integrity is one of those values that I hope goes without saying. Performing your duties morally, sincerely, and transparently is foundational to our relationship. A relationship of trust between us is incredibly important for us to work together well. Acting with integrity is a great way to build that trust; acting out of integrity is a quick way to break down the trust.
+It's easy for software engineers to get frustrated with pressure coming from product managers and business stakeholders ("this features needs to be delivered **_yesterday_!**"). It's easy for product managers and business stakeholders to get frustrated by pushback from software engineers ("it's not as easy as '_just putting a new button there_'...").
 
-I will always be transparent with you when I can. If there are things I cannot share, I will tell you why. If you ever feel that I am acting out of integrity, I want you to call me out on it.
+Building empathy between these stakeholders helps them understand each other's roles, pressures, frustrations and constraints.
 
 ## On feedback
 
-[Several](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g2703004c10_0_232) of [these](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.g2cf5bbf228_0_280) other [manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) mention safety, effort and benefit as pillars of good feedback ([Matt Newkirk](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/), in particular, says "neither you nor I should feel defensive about the feedback"). I absolutely agree that feedback should always be delivered within a safe space and I agree feedback should always be for the benefit and growth of the other person. However, I don't agree that feedback needs to be "low effort". **Feedback can be hard to give and receive.** But it is well worth the effort. I think it is perfectly natural for a receiver of feedback to feel defensive (particularly initially) in some cases.
+**Feedback can be hard to give and receive.** But it is well worth the effort. I think it is perfectly natural for a receiver of feedback to feel defensive (particularly initially) in some cases.
 
 My framework for feedback is as follows:
 1. Build inter-team and inter-personal **trust** alongside a culture of feedback.
@@ -127,29 +115,7 @@ My framework for feedback is as follows:
 1. Given genuine reflection, **self-parse the useful feedback** from the rest. Be slow to dismiss feedback about which you feel defensive. This often provides the biggest avenue for growth.
 1. Work actively to **integrate the useful feedback** into your daily life and habits. (That is, grow!)
 
-I think that my feedback philosophies go hand in hand with my views on the importance of intellectual curiosity, growth mindset and clear communication of goals. Feedback also dovetails with my philosophy that a large part of my job as manager is to help the people I am managing reach self-actualization.
-
-I credit the honing of my feedback philosophies to my time working and teaching at Dev Bootcamp. In a recent conversation with [Jon Stowe](https://www.linkedin.com/in/jonstowe/), we both agreed that "actionable, specific and kind feedback" was a takeaway from DBC that we continue to apply in work and life.
-
-## On learning and growth
-
-Helping catalyze your intellectual curiosity is an important part of my job, for the reasons above regarding fulfillment and self-actualization. Think of me as your champion towards self-actualization. When it comes to learning and growth, I am a big fan of [Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy).
-
-When I check in with you about your progress towards your learning and growth goals, I will often refer to the [Bloom categories](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/). As an example, as one of the junior developers I managed was learning React, we set goals around _analysis_ of current opinions of React best practices. The broader objective was get to a point where the developer could _evaluate_ the existing diverse opinions and contribute to the dialog by _creating_ his own opinion on React best practices.
-
-### Experiential learning
-
-I think people learn most effectively by doing and teaching. I will encourage you to integrate your learning and growth goals into the hands-on work you do day to day. I will also encourage you to share your knowledge with your peers and colleagues junior to you. This could be through pair programming, whiteboarding or a presentation.
-
-### Growth mindset
-
-I encourage everyone to approach their goals and growth with a [growth mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth). Given a growth mindset, failure is productive and critical feedback is a gift. I acknowledge that many forms of failure can be a hit to your ego (see the section on Maslow's hierarchy and esteem above). However, I think it is crucially important to reframe failure as an opportunity for reflection and growth.
-
-### Reflection
-
-Personal growth can be imperceptible since it is generally continuous rather than discrete (as contrasted with fulfillment through accomplishment). For this reason, it's important to regularly reflect on the differential in your growth over time. This also allows you to adjust your patterns and habits based on your progress. Particularly in our one-on-ones I will encourage you to reflect on your growth and your week with a lens to your weekly, monthly and quarterly diffs.
-
-Team-wide and process-based reflection (for example, agile retrospectives) are also incredibly important to the success of the individual, the team and the organization. With regard to reflection, feedback and iteration on process, I like to take an agile approach to Agile. That is, reflect and iterate on the process framework itself, not simply discrete processes within the framework. While it isn't effective or scientific to modify fundamental aspects of how you practice Agile after every sprint, a quarterly retrospective on Agile practices themselves is healthy and refreshing.
+I invite you to give me regular actionable, specific and kind feedback to help me in my own growth.
 
 ## Things I haven't worked out yet
 
@@ -159,7 +125,7 @@ There are many issues within software engineering upon which I am interested in 
 
 Software engineers love releasing features. (Product people and business people love feature releases, too!) I'm a big advocate of optimizing for [makers' schedules](http://www.paulgraham.com/makersschedule.html) for software engineers. That can involve shielding engineers against other stakeholders or staunchly defending process. While it would be nice for every chunk of the working day to allow for engineers to get into the flow on feature implementation, there is often work unrelated to implementation.
 
-As an example, if engineering team members present technical presentations to each other (or others in the organization) on a recurring basis, how do you balance preparation for the presentation against implementation goals in the current sprint or work cycle?
+As an example, if engineering team members present technical presentations to each other on a recurring basis, how do you balance preparation for presentations against implementation goals in the current sprint or work cycle?
 
 ### How to best pay down conceptual, technical and product debt
 
@@ -168,4 +134,3 @@ Various types of debt can be the bane of a developer's existence — it can grin
 After watching [Sarah Mei's keynote at RailsConf 2018](https://www.youtube.com/watch?v=lI77oMKr5EY), I've grown fond the analogy of software development being like furnishing and maintaining a home. In that vein, I like the idea of taking a very messy home and creating plans, rules and [habits](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) to be tidy rather than [dramatically decluttering](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308). (Replace "home" with "codebase" or "product feature set" or "domain model".)
 
 I haven't come across a silver bullet for debt (there likely isn't one). I am interested in iterating on creative ways to manage and pay down debt.
-
