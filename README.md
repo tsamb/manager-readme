@@ -20,7 +20,7 @@ This document is an introduction to me and an overview of my philosophies on man
     * [Slack](#slack)
     * [Email](#email)
 * [On feedback](#on-feedback)
-* [Things I haven't worked out yet](#Things-I-havent-worked-out-yet)
+* [Things I haven't worked out yet](#things-i-havent-worked-out-yet)
   * [How to best balance software implementation with other work](#how-to-best-balance-software-implementation-with-other-work)
   * [How to best pay down conceptual, technical and product debt](#how-to-best-pay-down-conceptual-technical-and-product-debt)
 
