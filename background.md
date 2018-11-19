@@ -7,8 +7,8 @@
  Academically, I majored in [logic and computation](http://www.science.auckland.ac.nz/en/about/subjects-and-specialisations/ug-majors/logic-and-computation-ug.html) (and philosophy) in undergrad. This is where I was first introduced to compsci fundamentals and learnt Java. I later completed a law degree in which I wrote my [dissertation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2286403) on international digital copyright infringement — specifically, which countries' laws apply to file sharing when said files are available in any country with access to the internet. I also have [speech and drama](https://www.speechnz.co.nz/) teaching credentials.
 
  Professionally, I have:
- * started two failed software startups;
- * taught logic and critical thinking at the University of Auckland;
+ * cofounded two failed software/hardware startups;
+ * taught symbolic logic and critical thinking at the University of Auckland;
  * worked as a lawyer at a large commercial firm;
  * taught full stack web development at a coding bootcamp;
  * led software teams at a real estate startup;
