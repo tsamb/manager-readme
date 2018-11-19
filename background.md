@@ -11,7 +11,8 @@
  * taught logic and critical thinking at the University of Auckland;
  * worked as a lawyer at a large commercial firm;
  * taught full stack web development at a coding bootcamp;
- * led software teams at a real estate startup.
+ * led software teams at a real estate startup;
+ * worked as an indpendent software consultant and led consulting teams.
 
 ### My personal interests
 
