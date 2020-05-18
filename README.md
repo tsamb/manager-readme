@@ -106,6 +106,8 @@ It's easy for software engineers to get frustrated with pressure coming from pro
 
 Building empathy between these stakeholders helps them understand each other's roles, pressures, frustrations and constraints.
 
+For more on this topic, check out [the presentation](https://docs.google.com/presentation/d/e/2PACX-1vTk-F_w1XVyiJsFnn5imQJHiCih5dBrcdbGMZipPnqzcRob0jS5JbMbYWfaXtUqYN6T8aNvw2YAz8NA/pub) I gave to Flatiron School.
+
 ### Communication
 
 First and foremost, if you are on a [maker's schedule](http://www.paulgraham.com/makersschedule.html), I will do everything I can to respect it. I encourage you to turn off Slack notifications when you are planning on getting into flow state.
